@@ -6,7 +6,7 @@ just see as reference plz
   
 XInput from - [https://github.com/evilC/UCR/blob/master/Libraries/XInput.ahk]  
 ClassMemory from - [https://github.com/Kalamity/classMemory/blob/master/classMemory.ahk] (i guess)  
-VirtualDesktopEnhancer from - [https://github.com/urob/win-11-virtual-desktop-enhancer]
+VirtualDesktopEnhancer from - [https://github.com/urob/win-11-virtual-desktop-enhancer]  
 
 /////////////////////////////////////////////////////////  
 (btw PS_NAVI recognition needs these-)  
