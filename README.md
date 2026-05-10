@@ -11,5 +11,5 @@ VirtualDesktopEnhancer from - [https://github.com/urob/win-11-virtual-desktop-en
 /////////////////////////////////////////////////////////  
 (btw PS_NAVI recognition needs these-)  
 (- XBox 360 Microsoft Driver)  
-(- nefarius/FireShork)  
+(- nefarius/FireShock)  
 (- nefarius/ScpToolKit)  
